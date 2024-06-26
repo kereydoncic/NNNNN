@@ -1,0 +1,77 @@
+#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20231101144828" group-title="TV Channels" resolution="640@360",A2Z
+http://jmrk.xyz:3050/live/mariamatos5@aol.com/NECUwTVLwP/558786.ts
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="TV Channels" resolution="640@360",Animax
+https://tinyurl.com/ANIMAXPH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg" group-title="TV Channels" resolution="640@360",Asian Food Network
+https://tinyurl.com/yckyc5uc
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/6a/AXN_%282008%29.jpg/revision/latest/scale-to-width-down/843?cb=20230508093814" group-title="TV Channels" resolution="640@360",AXN
+https://tinyurl.com/PhAXN
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/BBC_News_2019.svg/revision/latest/scale-to-width-down/200?cb=20190703222708" group-title="TV Channels" resolution="960@544",BBC News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/BuKo_Channel_(2021-.n.v.).png/revision/latest/scale-to-width-down/200?cb=20210720055409" group-title="TV Channels" resolution="640@360",BUKO
+https://tinyurl.com/de2trct8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo!_3D_Logo_2011.png/revision/latest/scale-to-width-down/300?cb=20210301131124" group-title="TV Channels" resolution="1280@720",Cinemo
+https://tinyurl.com/yc366xzt
+#EXTINF:-1 group-title="TV Channels" resolution="640@360",DreamWorks Tagalized
+https://stream.freetv.fun/d989ed993980c51e8b0f36ac1b09e851cdba7c58fb3eae1d653dc91c49df7620.ctv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg" group-title="TV Channels" resolution="1280@720",ESPN 2
+https://tinyurl.com/ms2kj9hu
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/gma-logo.png" group-title="TV Channels",GMA
+https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="TV Channels" resolution="640@480",GMA LIFE
+https://bit.ly/44MSmz6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="TV Channels" resolution="640@480",GMA PINOY
+https://bit.ly/3yqN4x7
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/789117.jpg" group-title="TV Channels" resolution="1280@720",HBO Family
+https://shorturl.at/naxol
+#EXTINF:-1 tvg-logo="http://www.hitstv.com/assets/hits-movies-logo-color.png" group-title="TV Channels" resolution="640@360",Hits Movies
+https://tinyurl.com/3f7ud98v
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/4/45/IBC_13_Logo.png/revision/latest?cb=20190202034558" group-title="TV Channels" resolution="640@360",IBC13
+https://bit.ly/3V5ybZU
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="TV Channels" resolution="1280@720",Nick Jr
+https://tinyurl.com/yky2zpca
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="TV Channels" resolution="720@576",Nickelodeon
+https://tinyurl.com/PHNICKELODEON
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054" group-title="TV Channels" resolution="1280@720",One News
+https://bit.ly/3V39Bce
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/philippinetelevision/images/6/6e/One_PH_Logo_2020.png/revision/latest/scale-to-width-down/300?cb=20221019190308" group-title="TV Channels" resolution="640@360",One Ph
+https://tinyurl.com/ebkfktmn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="TV Channels" resolution="1280@720",One Sports
+https://bit.ly/4dIklUF
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200309053551" group-title="TV Channels" resolution="1280@720",One Sports+
+https://tinyurl.com/SPORTplu
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="TV Channels" resolution="640@360",pbo
+https://bit.ly/44LFPvQ
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="TV Channels" resolution="640@360",SARI - SARI
+https://tinyurl.com/5bcc4nrw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="TV Channels" resolution="1280@720",TAP Movies
+https://tinyurl.com/TAPMovies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e8/TFC_(2011-.n.v.).png/revision/latest/scale-to-width-down/80?cb=20230131102035" group-title="TV Channels" resolution="960@540",TFC
+https://bit.ly/3WLqRDR
+#EXTINF:-1 tvg-logo="https://web-cf-image.cjenm.com/public/share/systemmng/site/footermng/logo-tvn.png" group-title="TV Channels" resolution="1280@720",tvN
+https://tinyurl.com/45xcubzv
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="TV Channels" resolution="640@360",TvN Movies Tagalog
+https://tinyurl.com/tvNMovies
+#EXTINF:-1 tvg-logo="https://filipinolive.com/wp-content/uploads/2021/09/UAAP-NwFIGB-696x330.jpeg" group-title="TV Channels" resolution="1280@720",UAAP Varsity
+https://tinyurl.com/4pnvw92b
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1939324.png" group-title="TV Channels" resolution="1920@1080",UFC FIGHT PASS
+https://tinyurl.com/UFCFIGHT01
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viva-cinema-ph.png" group-title="TV Channels" resolution="640@360",Viva Cinema
+https://tinyurl.com/mv52amcd
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="TV Channels" resolution="1280@720",WWE Network
+https://tinyurl.com/WWENETW
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ph/easy-rock.png" group-title="PH Radio ( Audio Only )",Easy Rock 96.3
+https://22243.live.streamtheworld.com/EASYROCK_MNL_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ph/love.png" group-title="PH Radio ( Audio Only )",Love Radio 90.7
+https://28093.live.streamtheworld.com/LOVERADIO_MNL_SC
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ph/magic.png" group-title="PH Radio ( Audio Only )",Magic FM 89.9
+https://stream-161.zeno.fm/sh37pvfd938uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzaDM3cHZmZDkzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImNkeFNIbzJIU1lPOXhxcnJseUt2MnciLCJpYXQiOjE3MTY1MTQzMDksImV4cCI6MTcxNjUxNDM2OX0.GsGUMW_aWRgK7DUynsCnGpGSIo6SJLJI9t4FsCQKZ_8
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-org-ph/mellow-manila.png" group-title="PH Radio ( Audio Only )",Mellow 94.7
+https://s3.free-shoutcast.com/stream/18342/stream/1/
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x4zvpbxrnhkk.jpg" group-title="PH Radio ( Audio Only )",Win Radio 93.5
+https://stream-159.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyc3MxaGdudTZoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZHeDZJUlRCUWl5Z0wyTlRuYUpMVmciLCJpYXQiOjE3MTY1MTQ1NDUsImV4cCI6MTcxNjUxNDYwNX0.hu2ZbJI0Cq6FGbjcM9B_7OI9y3_A2u8S5xndcj0af4w
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/LYafsgCznv.png" group-title="PH Radio ( Audio Only )",Wish FM
+https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/chunklist_b64000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radio-org-ph/yes.png" group-title="PH Radio ( Audio Only )",Yes FM 101.1
+https://22243.live.streamtheworld.com/YESTHEBEST_MNL_SC
